@@ -1,0 +1,62 @@
+Change Component Comment : Designator=C2 Old Comment=15 New Comment=15p
+Change Component Comment : Designator=C4 Old Comment=220 New Comment=220p
+Change Component Comment : Designator=C19 Old Comment=220 New Comment=220p
+Added Component: Designator=C7(CAPC2013X145X50ML20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0805C225K9PACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC2013X145X50ML20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0805C225K9PACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPC2013X145X50ML20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0805C225K9PACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAPC2013X145X50ML20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0805C225K9PACTU"; VariantName = "[No Variations]"
+Added Component: Designator=F1(FUSC6025X270N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CCF1N10TTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ccf1n10tte/koa-speer-electronics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/CCF1N10TTE.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CCF1N10TTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "660-CCF1N10TTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KOA-Speer/CCF1N10TTE?qs=rZB7yXOqaotLjZpPUC%2Fp3g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=F2(FUSC6025X270N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "CCF1N10TTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/ccf1n10tte/koa-speer-electronics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/CCF1N10TTE.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CCF1N10TTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "660-CCF1N10TTE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KOA-Speer/CCF1N10TTE?qs=rZB7yXOqaotLjZpPUC%2Fp3g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=L1(744151)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "65°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core Material"; Value = "Ferrite"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "8.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "30mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "48µH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "10mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "30mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max DC Current"; Value = "5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Wire"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "22803296"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Length"; Value = "12mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series Resistance"; Value = "25m?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "12.1mm"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=СхемаПолумостовая Member=Component C7 2n2
+Added Member To Class: ClassName=СхемаПолумостовая Member=Component C8 2n2
+Added Member To Class: ClassName=СхемаПолумостовая Member=Component C10 2n2
+Added Member To Class: ClassName=СхемаПолумостовая Member=Component C11 2n2
+Added Member To Class: ClassName=СхемаПолумостовая Member=Component F1 10A
+Added Member To Class: ClassName=СхемаПолумостовая Member=Component F2 10A
+Added Member To Class: ClassName=СхемаПолумостовая Member=Component L1 10mH 30A

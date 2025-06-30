@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=GND Pin=R22-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R22-1
+Added Pin To Net: NetName=NetQ2_2 Pin=R27-2
+Added Net: Name=NetQ2_2
+Added Rule: Name=Schematic Supply Nets

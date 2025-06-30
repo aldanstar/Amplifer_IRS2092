@@ -1,0 +1,12 @@
+Added Component: Designator=C2(CAPC2013X145X50ML20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0805C225K9PACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC2013X145X50ML20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0805C225K9PACTU"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAPC2013X145X50ML20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "C0805C225K9PACTU"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=СхемаПолумостовая Member=Component C2 15
+Added Member To Class: ClassName=СхемаПолумостовая Member=Component C4 220
+Added Member To Class: ClassName=СхемаПолумостовая Member=Component C19 220
